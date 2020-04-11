@@ -55,4 +55,5 @@ Start the Flask server again using:
 ### Method-3: Training the model from scratch
 
 Download dataset converted to images: https://drive.google.com/folderview?id=1naJSZnGSCmLmPpaD1x0Y1PwzSnMGtUAF
+
 Use `Facial_Expression_Training.ipynb` to change the architecture of the model and start training again.
