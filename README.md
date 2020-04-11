@@ -16,8 +16,8 @@ Model accuracy - 63%
 ### Prerequisites
 ```
  pip3 install numpy
- pip3 install sklearn
  pip3 install pandas
+ pip3 install livelossplot
  pip3 install opencv-python
  pip3 install tensorflow
  pip3 install Flask
