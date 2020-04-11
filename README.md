@@ -25,6 +25,8 @@ Model accuracy - 63%
 
 ### Method-1: Using the trained model
 
+Add any video to videos folder and change path in `camera.py Line 11` pointing to your video.
+
 Open terminal and run the command
 ```
   python3 main.py
